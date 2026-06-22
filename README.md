@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @mohammed-shamhan
-- 👀 I’m interested in ...python, Data scinece and analytics
-- 🌱 I’m currently learning ... python (programming language)
-- 💞️ I’m looking to collaborate on ...python, Data scinece, Networking
-- 📫 How to reach me ...Gmail:mohammedshamhan1@gmail.com
-                      
+# Hi there 👋, I'm Mohammed Shamhan
 
-<!---
-mohammed-shamhan/mohammed-shamhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Network Implementation Engineer with 4+ years of experience in enterprise networking, SD-WAN, and security.
+
+## 👨‍💻 About Me
+- 🔭 Currently working on **SD-WAN, Network Implementation & Security**
+- 🌱 Learning **Python, Network Automation, Cloud (AWS/GCP)**
+- 💡 Interested in **Network Engineering, Automation, Cybersecurity, and Cloud Networking**
+- 🤝 Looking to collaborate on **Python automation, networking labs, and infrastructure projects**
+
+## 🛠️ Tech Stack
+- **Networking:** Routing, Switching, VLAN, STP, OSPF, BGP, MPLS
+- **SD-WAN:** Aruba EdgeConnect (Silver Peak), Cisco SD-WAN
+- **Security:** Zscaler (ZIA/ZPA), Palo Alto, Checkpoint, Cisco ASA
+- **Wireless:** Cisco WLC, Aruba Wireless
+- **Monitoring:** SolarWinds, Aruba Central
+- **Tools:** ServiceNow, GNS3, EVE-NG
+- **Automation:** Python, Basic Network Scripting
+
+## 🚀 Current Focus
+- Network Automation using Python
+- Cloud Networking (AWS / GCP)
+- Advanced Security Architecture
+
+## 📫 Reach Me
+- 📧 Email: **mohammedshamhan1@gmail.com**
+- 💼 LinkedIn: *https://www.linkedin.com/in/mohammed-shamhan-65a915174/*
+
+---
+⭐ Always learning and building better network solutions.
